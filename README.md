@@ -27,6 +27,7 @@ Publish the website in the given URL.
 ## PROGRAM :
 ### Developed by: SHARIKA.R
 ### Reference number: 212223230204
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -135,6 +136,7 @@ id="back" style="font-family: 'Times New Roman', Times, serif;color: black;backg
 </div>
 </body>
 </html>
+```
 ### OUTPUT:
 ![image](https://github.com/SHARIKA818/Calc/assets/139834761/28bea1a7-45a7-4711-9972-62bf97e0070f)
 
